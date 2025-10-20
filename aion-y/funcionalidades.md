@@ -24,13 +24,13 @@ Esta seção detalha as funcionalidades, características e itens faltantes espe
 * **Carregador sem fio para celular:** Carregamento por indução
 * **V2L**
 * **ADAS:**
-** Alerta de colisão frontal (FCW)
-** Assistente de congestionamento (TJA)
-** Assistente de permanência em faixa (LKA)
-** Alerta de mudança de faixa (LDW)
-** Frenagem autônoma de emergência (AEB)
-** Piloto automático adaptativo (ACC)
-** Piloto automático integrado (ICA)
+  * Alerta de colisão frontal (FCW)
+  * Assistente de congestionamento (TJA)
+  * Assistente de permanência em faixa (LKA)
+  * Alerta de mudança de faixa (LDW)
+  * Frenagem autônoma de emergência (AEB)
+  * Piloto automático adaptativo (ACC)
+  * Piloto automático integrado (ICA)
 
 ---
 
