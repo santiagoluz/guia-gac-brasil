@@ -2,6 +2,7 @@ title: Guia GAC Brasil
 description: Repositório colaborativo com informações a respeito dos veículos da GAC no Brasil.
 url: "https://santiagoluz.github.io"
 baseurl: "/guia-gac-brasil" 
+
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
@@ -9,3 +10,6 @@ plugins:
 
 minimal_mistakes_skin: "dark" 
 minimal_mistakes_skin2: "default"
+
+footer_scripts:
+  - /assets/js/custom-theme-toggle.js
