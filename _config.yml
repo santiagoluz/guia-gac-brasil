@@ -21,4 +21,4 @@ defaults:
     values:
       layout: "single"
       sidebar:
-        nav: "main"
+        nav: "side_menu"
