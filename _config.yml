@@ -13,3 +13,12 @@ minimal_mistakes_skin2: "default"
 
 footer_scripts:
   - /assets/js/custom-theme-toggle.js
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      sidebar:
+        nav: "main"
