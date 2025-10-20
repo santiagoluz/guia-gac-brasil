@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Guia do AION Y
+layout: single
+title: AION Y
 ---
 
 # Guia do GAC AION Y
