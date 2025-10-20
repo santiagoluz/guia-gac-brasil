@@ -19,8 +19,8 @@ Conteúdo que se aplica a vários modelos da marca.
 
 Selecione o seu veículo para ver informações específicas:
 
-### [GAC AION Y](aion-y/)
-* Minivan 100% elétrica com dois modelos: Premium e Elite.
-
 ### [GAC AION V](aion-v/)
 * SUV 100% elétrico
+
+### [GAC AION Y](aion-y/)
+* Minivan 100% elétrica com dois modelos: Premium e Elite.
