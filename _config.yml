@@ -1,7 +1,8 @@
 title: Guia GAC Brasil
 description: Repositório colaborativo com informações a respeito dos veículos da GAC no Brasil.
-theme: jekyll-theme-minima
+remote_theme: "mmistakes/minimal-mistakes"
 baseurl: "/guia-gac-brasil" 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
